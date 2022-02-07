@@ -1,0 +1,37 @@
+{
+  "name": "TheWitcherTRPG-babele-es",
+  "title": "TheWitcherTRPG  Babele Spanish",
+  "description": "Traducción de la implementación de TheWitcherTRPG al español mediante babele",
+  "version": "0.79.1",
+  "minimumCoreVersion" : "9",
+  "compatibleCoreVersion":"9",
+  "author": "@Mk1lolo#0316",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.20"
+    }
+  ],
+    "packs": [],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "system": "TheWitcherTRPG",
+  "systemVersion": "0.79.0",
+  "url": "https://github.com/foundryvttes/TheWitcherTRPG-babele-es",
+  "manifest": "https://raw.githubusercontent.com/foundryvttes/TheWitcherTRPG-babele-es/main/module.json",
+  "download": "https://github.com/foundryvttes/TheWitcherTRPG-babele-es/archive/main.zip"
+}
