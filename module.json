@@ -30,7 +30,7 @@
     }
   ],
   "system": "TheWitcherTRPG",
-  "systemVersion": "0.79.0",
+  "systemVersion": "0.79",
   "url": "https://github.com/foundryvttes/TheWitcherTRPG-babele-es",
   "manifest": "https://raw.githubusercontent.com/foundryvttes/TheWitcherTRPG-babele-es/main/module.json",
   "download": "https://github.com/foundryvttes/TheWitcherTRPG-babele-es/archive/main.zip"
