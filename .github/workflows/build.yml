@@ -81,7 +81,7 @@ jobs:
         with:
           file: module.json
           field: version
-          value: ${{ steps.tag_version.outputs.new_tag }}
+          value: ${{ steps.tag_version.outputs.new_version }}
           
       - name: Commit files
         run: |
