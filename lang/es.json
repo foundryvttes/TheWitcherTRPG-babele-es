@@ -1,6 +1,25 @@
 {
     "I18N.LANGUAGE": "Español",
     "I18N.MAINTAINERS": "@Mk1lolo#0316",
+
+    "ACTOR.TypeCharacter": "Personaje",
+    "ACTOR.TypeMonster": "Monstruo",
+    "ACTOR.TypeLoot": "Botín",
+
+    "ITEM.TypeWeapon": "Arma",
+    "ITEM.TypeArmor": "Armadura",
+    "ITEM.TypeEnhacement": "Mejora",
+    "ITEM.TypeMount": "Montura",
+    "ITEM.TypeValuable": "Objeto de valor",
+    "ITEM.TypeAlchemical": "Alquímico",
+    "ITEM.TypeComponent": "Componentes
+    "ITEM.TypeDiagrams": "Diagramas",
+    "ITEM.TypeMutagen": "Mutágeno",
+    "ITEM.TypeSpell": "Hechizo",
+    "ITEM.TypeProfession": "Profesión",
+    "ITEM.TypeNote": "Nota",
+    "ITEM.TypeRace": "Raza",	
+    "ITEM.TypeEffect": "Efecto",
 	
     "WITCHER.Type": "Tipo",
     "WITCHER.Percentage": "Porcentaje",
@@ -15,7 +34,7 @@
     "WITCHER.Item.Attribute": "Atributos",
     "WITCHER.Item.ROF": "ATA",
 	
-	"WITCHER.Item.Availability": "Disponibilidad",
+    "WITCHER.Item.Availability": "Disponibilidad",
     "WITCHER.Item.AddEffect": "Añadir efecto",
     "WITCHER.Item.AddComponent": "Añadir componente",
     "WITCHER.Item.RemoveEffect": "Eliminar efecto",
