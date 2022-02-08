@@ -75,7 +75,14 @@ jobs:
           file: module.json
           field: download
           value: https://github.com/foundryvttes/TheWitcherTRPG-babele-es/releases/download/${{ steps.tag_version.outputs.new_tag }}/main.zip
-
+          
+      - name: Update module.json version
+        uses: jossef/action-set-json-field@v1
+        with:
+          file: module.json
+          field: version
+          value: ${{ steps.tag_version.outputs.new_tag }}
+          
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
