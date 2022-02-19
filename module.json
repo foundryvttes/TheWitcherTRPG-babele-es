@@ -2,7 +2,7 @@
   "name": "TheWitcherTRPG-babele-es",
   "title": "TheWitcherTRPG  Babele Spanish",
   "description": "Traducción de la implementación de TheWitcherTRPG al español mediante babele",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "author": "@Mk1lolo#0316",
@@ -35,5 +35,5 @@
   "systemVersion": "0.79",
   "url": "https://github.com/foundryvttes/TheWitcherTRPG-babele-es",
   "manifest": "https://raw.githubusercontent.com/foundryvttes/TheWitcherTRPG-babele-es/main/module.json",
-  "download": "https://github.com/foundryvttes/TheWitcherTRPG-babele-es/releases/download/v0.0.6/main.zip"
+  "download": "https://github.com/foundryvttes/TheWitcherTRPG-babele-es/releases/download/v0.0.7/main.zip"
 }
