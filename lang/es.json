@@ -2,25 +2,6 @@
     "I18N.LANGUAGE": "Español",
     "I18N.MAINTAINERS": "@Mk1lolo#0316",
 
-    "ACTOR.TypeCharacter": "Personaje",
-    "ACTOR.TypeMonster": "Monstruo",
-    "ACTOR.TypeLoot": "Botín",
-
-    "ITEM.TypeWeapon": "Arma",
-    "ITEM.TypeArmor": "Armadura",
-    "ITEM.TypeEnhancement": "Mejora",
-    "ITEM.TypeMount": "Montura",
-    "ITEM.TypeValuable": "Objeto de valor",
-    "ITEM.TypeAlchemical": "Alquímico",
-    "ITEM.TypeComponent": "Componente",
-    "ITEM.TypeDiagrams": "Diagrama",
-    "ITEM.TypeMutagen": "Mutágeno",
-    "ITEM.TypeSpell": "Hechizo",
-    "ITEM.TypeProfession": "Profesión",
-    "ITEM.TypeNote": "Nota",
-    "ITEM.TypeRace": "Raza",	
-    "ITEM.TypeEffect": "Efecto",
-	
     "WITCHER.Type": "Tipo",
     "WITCHER.Percentage": "Porcentaje",
     "WITCHER.DC": "DO",
@@ -862,6 +843,7 @@
 	"WITCHER.context.unavailable": "N/A",
 
     "WITCHER.verbalCombat.Title": "Combate verbal",
+    "WITCHER.verbalCombat.DialogTitle" : "Realizando acción de combate verbal",
     "WITCHER.verbalCombat.EmpatheticAttacks": "Ataques Empáticos",
     "WITCHER.verbalCombat.AntagonisticAttacks": "Ataques Antagónicos",
     "WITCHER.verbalCombat.Defences": "Defensas",
